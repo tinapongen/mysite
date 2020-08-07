@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Mulish', sans-serif;
+  font-size: 115%;
+  color: #5c5757;
+}
+
+h1 {
+  font-size: 5.9375rem;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #ffa5b0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ff7a8a;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffa5b0;
+  font-size: 1.375rem;
+}
+
+hr {
+  width: 4.5%;
+  border-style: dotted none none;
+  color: #e0ebe8;
+  border-width: 5px;
+}
+
+a {
+  color: #ff7a8a;
+  text-decoration: none;
+  margin: 25px;
+}
+
+a:hover {
+  color: #f9ecec;
+}
+
+.top-container {
+  background-color: #f9ecec;
+  position: relative;
+  padding-top: 200px;
+  height: 550px;
+}
+
+.entrepreneur {
+  font-size: 1.25rem;
+  margin: 0 auto 0 auto;
+  color: #ffa5b0;
+  font-weight: normal;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 330px;
+  bottom: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 330px;
+  top: 220px;
+}
+
+.mountain {
+  position: absolute;
+  right: 400px;
+  bottom: 0;
+  height: 370px;
+}
+
+.middle-container {
+  background-color: inherit;
+}
+
+.profile {
+  width: 34.375%;
+  margin: 75px auto 100px;
+  text-align: center;
+  line-height: 2;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.girl-boss-gif {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+.puppies-gif {
+  width: 22rem;
+  float: right;
+  margin-top: 57px;
+  margin-bottom: 57px;
+  margin-left: 30px;
+}
+
+.contact-me {
+  width: 37%;
+  margin: 100px auto;
+}
+
+.contact-me-h3 {
+  line-height: 3;
+}
+
+.contact-me-description {
+  margin-bottom: 2.8rem;
+}
+
+.btn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 18px;
+  background: #ff7a8a;
+  padding: 15px 25px 15px 25px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e06575;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #ffc7c7;
+  padding: 50px 0 30px;
+}
+
+.copyright-description {
+  color: white;
+  font-family: serif;
+  font-size: 80%;
+  margin-top: 30px;
+}
